@@ -1,11 +1,11 @@
 <header class="header row">
-  <div class="col-md-4 logo">
-    <img src="www/img/logo.png">
+  <a href="{{site.baseurl}}"  class="col-md-4 logo">
+    <img src="{{site.baseurl}}/www/img/logo.png">
     <span class="title">BRUNCKO</span>
     <hr>
     <span class="subtitle">Advokátní kancelář</span>
     <span class="spacing">Attorney at law</span>
-  </div>
+  </a>
   <a href="#" id="menu-trigger" class="menu-toggle">
     <div class="pull-left">
       <span class="icon-bar"></span>
@@ -18,7 +18,7 @@
   <div class="col-md-8">
     <div class="contact-info">
       <div class="cell">
-        <span class="icon icon-phone" data-grunticon-embed></span><small>+420</small> <span class="blue">549 211 036</span><br/>
+        <span class="icon icon-phone" data-grunticon-embed></span><small>+420</small> <span class="blue">735 881 874</span><br/>
         <span class="icon icon-envelope" data-grunticon-embed></span><a href="mailto:bruncko@bruncko.cz">bruncko@bruncko.cz</a>
       </div>
       <div class="cell text-center">
@@ -27,8 +27,8 @@
       <div class="cell address">
         <small class="pull-right text-right">
           <span class="icon icon-home" data-grunticon-embed></span>
-          Stanislav Bruncko<br/>
-          Jeřábkova 4564<br/>
+          Mgr. Bc. Stanislav Bruncko, advokát<br/>
+          Benešova 628/12<br/>
           602 00 Brno
         </small>
       </div>
@@ -36,11 +36,29 @@
 
     <nav>
       <ul class="nav nav-pills">
-        <li role="presentation" class="active"><a href="#">Úvod</a></li>
-        <li role="presentation"><a href="#">Poskytované služby</a></li>
-        <li role="presentation"><a href="#">Publikační činnost</a></li>
-        <li role="presentation"><a href="#">Ceník</a></li>
-        <li role="presentation"><a href="#">Kontakt</a></li>
+        {{site.navigation}}
+
+        {% for link in site.navigation %}
+        {% assign current = nil %}
+        {% if page.url == link.url%}
+        {% assign current = 'active' %}
+        {% endif %}
+
+        <li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+          <a href="{{ link.url }}">{{ link.text }}</a>
+        </li>
+
+        {% endfor %}
+
+        {% for page in site.pages %}
+        {% if page.title %}
+        {% if page.url == node.url %}
+        <li role="presentation" class="active"><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+        {% else %}
+        <li role="presentation"><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+        {% endif %}
+        {% endif %}
+        {% endfor %}
       </ul>
     </nav>
   </div>

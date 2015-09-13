@@ -10,3 +10,14 @@ url: "http://bruncko.cz" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+navigation:
+- text: Úvod
+  url: /
+- text: Poskytované služby
+  url: /poskytovane-sluzby
+- text: Publikační činnost
+  url: /publikacni-cinnost
+- text: Ceník
+  url: /cenik
+- text: Kontakt
+  url: /kontakt
