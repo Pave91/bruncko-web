@@ -1,0 +1,53 @@
+.nav {
+    display: none;
+
+    .nav-open & {
+        display: block;
+    }
+
+    @media (max-width: @screen-xs-max) {
+        margin: 0 -15px;
+        padding-top: 0;
+        box-shadow: 0px 3px 5px rgba(0, 51, 128, 0.3);
+
+        > li {
+            display: block;
+            float: none;
+            border-top: 1px dashed rgba(0, 51, 128, 0.3);
+        }
+    }
+
+    padding-top: 22px;
+    letter-spacing: 1px;
+    font-family: @headings-font-family-bold;
+    font-size: 17px;
+
+    > li {
+        text-transform: uppercase;
+
+        &.active {
+            a {
+                text-shadow: 2px 0 0px @brand-color;
+
+                &:hover,
+                &:focus {
+                    text-shadow: 2px 0 0px @brand-color;
+                }
+            }
+        }
+
+        > a {
+            padding: 10px 15px 8px 15px;
+            color: @nav-link-color;
+
+            &:hover {
+                color: @link-color;
+
+            }
+        }
+    }
+
+    @media (min-width: @screen-sm-min) {
+        display: block;
+    }
+}

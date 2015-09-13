@@ -1,19 +1,30 @@
 <!DOCTYPE html>
-<html>
+<!--[if IE 8]>         <html lang="cs" class="no-js lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]>         <html lang="cs" class="no-js lt-ie10"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="cs" class="no-js"> <!--<![endif]-->
+<head>
 
   {% include head.html %}
 
   <body>
 
-    {% include header.html %}
+    <div class="container">
+        {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+        <section class="main">
+            <div class="row">
+                <div class="col-sm-8">
+            {{ content }}
+                </div>
+                <div class="col-sm-4">
+                    <h2>Aktuální sdělení</h2>
+                    <p>Curabitur vestibulum sem urna, eget maximus dui tincidunt a. Nullam a purus et metus congue commodo non eu justo. Phasellus a tortor sem. Proin vel maximus massa. Praesent non enim urna. Integer nunc nisl, faucibus in blandit eu, viverra eu eros. Fusce et leo enim. Vestibulum eu tempus felis. Nunc varius, leo id elementum ornare, ipsum ligula convallis justo, ut scelerisque urna lacus id tellus.</p>
+                </div>
+            </div>
+        </section>
     </div>
+        {% include footer.html %}
 
-    {% include footer.html %}
 
   </body>
 

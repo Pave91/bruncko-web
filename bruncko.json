@@ -1,0 +1,26 @@
+{
+  "name": "bruncko",
+  "title": "Bruncko",
+  "description": "attorney at law",
+  "version": "0.1.0",
+  "homepage": "http://www.bruncko.cz/",
+  "author": {
+    "name": "Pave",
+    "email": "pave.pr@gmail.com",
+    "url": "https://cz.linkedin.com/pub/pavlína-ostrá/4b/820/b25"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://bitbucket.org/Pave91/bruncko.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.bruncko.cz//blob/master/LICENSE-MIT"
+    }
+  ],
+  "keywords": []
+}
