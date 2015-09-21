@@ -4,4 +4,4 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
-první editace přes github
+druhá editace přes github
