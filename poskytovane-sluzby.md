@@ -110,5 +110,5 @@ analýza a kontrola smluv
 zastupování v řízení o ústavní stížnosti před ústavním soudem
 
 
-a některé další oblasti – neváhejte ((zavolat)) či ((napsat na mou e-mailovou adresu)) a otázat se
+a některé další oblasti – neváhejte [zavolat]({{site.baseurl}}/cenik) či [napsat na mou e-mailovou adresu]({{site.baseurl}}/cenik) a otázat se
 
