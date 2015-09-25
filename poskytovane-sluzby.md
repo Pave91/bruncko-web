@@ -66,6 +66,7 @@ analýza a kontrola smluv
 
 
 ## Obchodní právo
+
 ### Obchodní společnosti
 - zakládání společností
 - změny v obchodních společnostech (změna jednatele, prodej obchodního podílu či akcií)
@@ -88,8 +89,8 @@ analýza a kontrola smluv
 ## Právo duševního vlastnictví
 - sepis licenčních smluv
 - zastupování před soudem
+  
 
- 
 ## Správní právo
 - katastrální právo – zastupování před katastrálními úřady ve věcech zápisu práv k nemovitostem
 - právo přestupkové a právo správních deliktů – zastupování v řízení před přestupkovými odbory či před odbory dopravními
