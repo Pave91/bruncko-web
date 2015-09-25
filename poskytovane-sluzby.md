@@ -55,58 +55,58 @@ analýza a kontrola smluv
 - možno i jednorázové konzultace
 
 
-Trestní právo
-obhajoba v trestním řízení ve všech jeho fázích
-sepis trestních oznámení
-zastupování poškozených a vymáhání jejich nároků, majetkové i nemajetkové újmy
-zastupování vazebně vězněných
-zastupování před orgány policejními (a jinými OČTŘ) a v řízení před soudem
-sepis stížností a odvolání, příp. odporu
-sepis žádostí o podmíněné prominutí zbytku trestu
+## Trestní právo
+- obhajoba v trestním řízení ve všech jeho fázích
+- sepis trestních oznámení
+- zastupování poškozených a vymáhání jejich nároků, majetkové i nemajetkové újmy
+- zastupování vazebně vězněných
+- zastupování před orgány policejními (a jinými OČTŘ) a v řízení před soudem
+- sepis stížností a odvolání, příp. odporu
+- sepis žádostí o podmíněné prominutí zbytku trestu
 
 
-Obchodní právo
-Obchodní společnosti
-zakládání společností
-změny v obchodních společnostech (změna jednatele, prodej obchodního podílu či akcií)
-prodej společností
-zastupování v řízení před obchodním rejstříkem
-poradenství ve věcech obchodních společností
+## Obchodní právo
+### Obchodní společnosti
+- zakládání společností
+- změny v obchodních společnostech (změna jednatele, prodej obchodního podílu či akcií)
+- prodej společností
+- zastupování v řízení před obchodním rejstříkem
+- poradenství ve věcech obchodních společností
 
-Závazkové právo
-sepis obchodních smluv včetně smluv vzorových – formulářových (smlouvy kupní, o dílo, úvěrové, mandátní, komisionářské, zprostředkovatelské, o obchodním zastoupení, licenčních, o tichém společenství aj.)
-analýza a kontrola obchodních smluv
-sepis všeobecných obchodních podmínek 
-vymáhání pohledávek, včetně zastupování v exekučním řízení
-zastupování v rozhodčím řízení či v insolvenčním řízení
+### Závazkové právo
+- sepis obchodních smluv včetně smluv vzorových – formulářových (smlouvy kupní, o dílo, úvěrové, mandátní, komisionářské, zprostředkovatelské, o obchodním zastoupení, licenčních, o tichém společenství aj.)
+- analýza a kontrola obchodních smluv
+- sepis všeobecných obchodních podmínek 
+- vymáhání pohledávek, včetně zastupování v exekučním řízení
+- zastupování v rozhodčím řízení či v insolvenčním řízení
 
-Právo cenných papírů
-poradenství při vzniku směnečných závazků
-zastupování v řízení o vymáhání práv ze směnek
+### Právo cenných papírů
+- poradenství při vzniku směnečných závazků
+- zastupování v řízení o vymáhání práv ze směnek
  
 
-Právo duševního vlastnictví
-sepis licenčních smluv
-zastupování před soudem
+## Právo duševního vlastnictví
+- sepis licenčních smluv
+- zastupování před soudem
 
  
-Správní právo
-katastrální právo – zastupování před katastrálními úřady ve věcech zápisu práv k nemovitostem
-právo přestupkové a právo správních deliktů – zastupování v řízení před přestupkovými odbory či před odbory dopravními
-zastupování před živnostenským úřadem
-zastupování v specifických řízeních před správními orgány
-sepis správních žalob a zastupování ve věcech řízení o nich
+## Správní právo
+- katastrální právo – zastupování před katastrálními úřady ve věcech zápisu práv k nemovitostem
+- právo přestupkové a právo správních deliktů – zastupování v řízení před přestupkovými odbory či před odbory dopravními
+- zastupování před živnostenským úřadem
+- zastupování v specifických řízeních před správními orgány
+- sepis správních žalob a zastupování ve věcech řízení o nich
  
 
 
-Pracovní právo
-sepis pracovněprávních jednání – dohoda o ukončení pracovního poměru, výpověď, okamžité zrušení
-sepis žalob a zastupování v řízení o náhradu mzdy, nebo o náhradu škody 
-sepis žalob a zastupování v řízení o neplatnost skončení pracovního poměru 
+## Pracovní právo
+- sepis pracovněprávních jednání – dohoda o ukončení pracovního poměru, výpověď, okamžité zrušení
+- sepis žalob a zastupování v řízení o náhradu mzdy, nebo o náhradu škody 
+- sepis žalob a zastupování v řízení o neplatnost skončení pracovního poměru 
 
 
-Ústavní právo
-sepis ústavních stížností
+## Ústavní právo
+- sepis ústavních stížností
 zastupování v řízení o ústavní stížnosti před ústavním soudem
 
 
