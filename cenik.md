@@ -12,7 +12,7 @@ Není-li mezi klientem a advokátem odměna dohodnuta, řídí se výše mimosml
 
 Přesnou výši odměny nelze obvykle stanovit bez bližší znalosti konkrétního případu. Proto bude odměna s klientem dohodnuta po poskytnutí bližších informací při projednání záležitosti v advokátní kanceláři. 
 
-Dohodou mezi klientem a advokátem může být odměna stanovena jako [odměna časová]({{site.baseurl}}/Smluvní odměna časová), [odměna úkonová]({{site.baseurl}}/Smluvní odměna úkonová), [odměna paušální]({{site.baseurl}}/Smluvní odměna paušální) či [odměna podílová]({{site.baseurl}}/Smluvní odměna podílová).
+Dohodou mezi klientem a advokátem může být odměna stanovena jako [odměna časová]({{site.baseurl}}/cenik/), [odměna úkonová]({{site.baseurl}}/cenik), [odměna paušální]({{site.baseurl}}/cenik) či [odměna podílová]({{site.baseurl}}/cenik).
 
 
 ##Smluvní odměna časová
