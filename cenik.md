@@ -8,7 +8,7 @@ permalink: /cenik/
 ##Odměna advokáta
 
 Odměna za právní službu se řídí zásadně dle dohody mezi advokátem a klientem (smluvní odměna), a to v závislosti na náročnosti poskytované služby, zejména dle složitosti případu a dle časové náročnosti..
-Není-li mezi klientem a advokátem odměna dohodnuta, řídí se výše mimosmluvní odměny vyhláškou Ministerstva spravedlnosti č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb  [advokátní tarif]({{site.baseurl}}/https://portal.gov.cz/app/zakony/zakonPar.jsp?idBiblio=44272&nr=177~2F1996&rpp=15#local-content) ve znění pozdějších předpisů.
+Není-li mezi klientem a advokátem odměna dohodnuta, řídí se výše mimosmluvní odměny vyhláškou Ministerstva spravedlnosti č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb  [advokátní tarif](https://portal.gov.cz/app/zakony/zakonPar.jsp?idBiblio=44272&nr=177~2F1996&rpp=15#local-content) ve znění pozdějších předpisů.
 
 Přesnou výši odměny nelze obvykle stanovit bez bližší znalosti konkrétního případu. Proto bude odměna s klientem dohodnuta po poskytnutí bližších informací při projednání záležitosti v advokátní kanceláři. 
 
