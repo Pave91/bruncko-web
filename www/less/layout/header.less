@@ -69,7 +69,7 @@
 
     @media (min-width: @screen-lg-min) {
         .col-md-8  {
-            padding-left: 60px;
+            padding-left: 0;
         }
     }
 }
@@ -81,6 +81,10 @@
     font-family: @headings-font-family-bold;
     font-size: 14px;
     margin-bottom: 5px;
+
+    &:hover {
+        text-decoration: none;
+    }
 
     img {
         float: left;
@@ -95,6 +99,7 @@
         letter-spacing: 3px;
         font-family: @font-family-brand;
         margin-top: 5px;
+        font-weight: bold;
         //  text-shadow: 1px 0px 0px rgba(0, 51, 128, 1);
     }
 

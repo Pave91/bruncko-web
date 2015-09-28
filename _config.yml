@@ -13,6 +13,8 @@ markdown: kramdown
 navigation:
 - text: Úvod
   url: /
+- text: Osoby v kanceláři
+  url: /osoby-v-kancelari
 - text: Poskytované služby
   url: /poskytovane-sluzby
 - text: Publikační činnost

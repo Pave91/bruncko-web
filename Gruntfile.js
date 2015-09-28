@@ -205,33 +205,6 @@ module.exports = function(grunt) {
             }
         },
 
-        assemble: {
-            options: {
-                pkg: '<%= pkg %>',
-                flatten: true
-            },
-            dev: {
-                options: {
-                    data: '<%= tpl %>/dev/*.json',
-                    partials: ['<%= tpl %>/partials/**/*.hbs'],
-                    layout: '<%= tpl %>/layouts/default.hbs'
-                },
-                files: {
-                    '<%= www %>': ['<%= tpl %>/pages/**/*.hbs']
-                }
-            },
-            production: {
-                options: {
-                    data: '<%= tpl %>/production/*.json',
-                    partials: ['<%= tpl %>/partials/**/*.hbs'],
-                    layout: '<%= tpl %>/layouts/default.hbs'
-                },
-                files: {
-                    '<%= www %>': ['<%= tpl %>/pages/**/*.hbs']
-                }
-            }
-        },
-
         esteWatch: {
             options: {
                 dirs: [
@@ -292,8 +265,8 @@ module.exports = function(grunt) {
     grunt.registerTask('icon', ['svgmin', 'grunticon']);
     grunt.registerTask('jsdev', ['jshint:gruntfile', 'jshint:dev', 'jscs', 'browserify:dev']);
     grunt.registerTask('js', ['jshint:gruntfile', 'jshint:production', 'jscs', 'browserify:production', 'uglify:compile']);
-    grunt.registerTask('tpldev', ['assemble:dev']);
-    grunt.registerTask('tpl', ['assemble:production']);
+    grunt.registerTask('tpldev');
+    grunt.registerTask('tpl');
     grunt.registerTask('dist', ['clean:production', 'copy:production']);
     grunt.registerTask('build', ['clean:build', 'css', 'copy:js', 'js', 'tpl', 'dist']);
 
