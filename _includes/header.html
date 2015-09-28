@@ -1,60 +1,65 @@
 <header class="header row">
-  <div class="col-md-4 logo">
-    <a href="{{site.baseurl}}">
-      <img src="{{site.baseurl}}/www/img/logo.png">
-      <span class="title">BRUNCKO</span>
-      <hr>
-      <span class="subtitle">Advokátní kancelář</span>
-      <span class="spacing">Law office</span>
+    <div class="col-md-4 logo">
+        <a href="{{site.baseurl}}">
+            <img src="{{site.baseurl}}/www/img/logo.png">
+            <span class="title">BRUNCKO</span>
+            <hr>
+            <span class="subtitle">Advokátní kancelář</span>
+            <span class="spacing">Law office</span>
+        </a>
+    </div>
+
+    <a href="#" id="menu-trigger" class="menu-toggle">
+        <div class="pull-left">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </div>
+        Menu
     </a>
-  </div>
 
-  <a href="#" id="menu-trigger" class="menu-toggle">
-    <div class="pull-left">
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
+    <div class="col-md-8">
+        <div class="contact-info">
+            <div class="cell">
+                <span class="icon icon-phone" data-grunticon-embed></span>
+                <small>+420</small>
+                <span class="blue">735 881 874</span><br/>
+                <span class="icon icon-envelope" data-grunticon-embed></span><a href="mailto:bruncko@bruncko.cz">bruncko@bruncko.cz</a>
+            </div>
+            <div class="cell text-center">
+                <span class="icon icon-time" data-grunticon-embed></span>
+                <small>Po - Pá:</small>
+                <span class="blue">8:00&nbsp;-&nbsp;16:00</span>
+            </div>
+            <div class="cell address">
+                <small class="pull-right text-right">
+                    <span class="icon icon-home" data-grunticon-embed></span>
+                    Mgr. Bc. Stanislav Bruncko, advokát<br/>
+                    Benešova 628/12<br/>
+                    602 00 Brno
+                </small>
+            </div>
+        </div>
+
+        <nav>
+            <ul class="nav nav-pills">
+                {% for link in site.navigation %}
+                {% assign current = nil %}
+                {% capture wholeurl %}{{ link.url }}/{% endcapture %}
+                {% if page.url == wholeurl%}
+                {% assign current = 'active' %}
+                {% endif %}
+
+
+
+                <li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+                    <a href="{{ link.url | prepend: site.baseurl}}">{{ link.text }}</a>
+                </li>
+
+                {% endfor %}
+            </ul>
+        </nav>
     </div>
-    Menu
-  </a>
-
-  <div class="col-md-8">
-    <div class="contact-info">
-      <div class="cell">
-        <span class="icon icon-phone" data-grunticon-embed></span><small>+420</small> <span class="blue">735 881 874</span><br/>
-        <span class="icon icon-envelope" data-grunticon-embed></span><a href="mailto:bruncko@bruncko.cz">bruncko@bruncko.cz</a>
-      </div>
-      <div class="cell text-center">
-        <span class="icon icon-time" data-grunticon-embed></span><small>Po - Pá:</small> <span class="blue">8:00&nbsp;-&nbsp;16:00</span>
-      </div>
-      <div class="cell address">
-        <small class="pull-right text-right">
-          <span class="icon icon-home" data-grunticon-embed></span>
-          Mgr. Bc. Stanislav Bruncko, advokát<br/>
-          Benešova 628/12<br/>
-          602 00 Brno
-        </small>
-      </div>
-    </div>
-
-    <nav>
-      <ul class="nav nav-pills">
-
-
-        {% for link in site.navigation %}
-        {% assign current = nil %}
-        {% if page.url == link.url%}
-        {% assign current = 'active' %}
-        {% endif %}
-
-        <li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
-          <a href="{{ link.url | prepend: site.baseurl}}">{{ link.text }}</a>
-        </li>
-
-        {% endfor %}
-      </ul>
-    </nav>
-  </div>
 
 
 </header>
