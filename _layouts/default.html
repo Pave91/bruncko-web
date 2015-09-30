@@ -1,34 +1,45 @@
 <!DOCTYPE html>
-<!--[if IE 8]>         <html lang="cs" class="no-js lt-ie10 lt-ie9"> <![endif]-->
-<!--[if IE 9]>         <html lang="cs" class="no-js lt-ie10"> <![endif]-->
-<!--[if gt IE 9]><!--> <html lang="cs" class="no-js"> <!--<![endif]-->
+<!--[if IE 8]>
+<html lang="cs" class="no-js lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]>
+<html lang="cs" class="no-js lt-ie10"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html lang="cs" class="no-js"> <!--<![endif]-->
 <head>
 
-  {% include head.html %}
+    {% include head.html %}
 
-  <body>
+<body>
 
-    <div class="container">
-        {% include header.html %}
+<div class="container">
+    {% include header.html %}
 
-        <section class="main">
-            <div class="row">
-                <div class="col-sm-8">
-            {{ content }}
-                </div>
-                <div class="col-sm-4">
-                    <p class="text-center">
-                        <img src="{{site.baseurl}}/www/img/SB.jpg" alt="Mgr. Bc. Stanislav Bruncko" width="150">
-                    </p>
-                    <br/>
-                    <p>Advokát Mgr. Bc. Stanislav Bruncko vede kancelář a specializuje se na rodinné, občanské, trestní a obchodní právo, přičemž v některých uvedených oblastech i <a href="{{site.baseurl}}/publikacni-cinnost">publikuje</a>. Právní služby poskytuje spolehlivě a vysoce kvalifikovaně, s důrazem na osobní přístup a čestný a etický výkon advokacie.</p>
-                </div>
+    <section class="main">
+        <div class="row">
+            <div class="col-sm-8">
+                {{ content }}
             </div>
-        </section>
-    </div>
-        {% include footer.html %}
+            <div class="col-sm-4">
+                <p class="text-center">
+                    <img src="{{site.baseurl}}/www/img/SB.jpg" alt="Mgr. Bc. Stanislav Bruncko" width="150">
+                </p>
+                <br/>
+
+                <p>Advokát Mgr. Bc. Stanislav Bruncko vede kancelář a specializuje se na rodinné, občanské, trestní a
+                    obchodní právo, přičemž v některých uvedených oblastech i
+                    <a href="{{site.baseurl}}/publikacni-cinnost">publikuje</a>. Právní služby poskytuje spolehlivě a
+                    vysoce kvalifikovaně, s důrazem na osobní přístup a čestný a etický výkon advokacie.</p>
+
+                <a href="//www.facebook.com/judrbruncko" target="_blank">
+                    <span class="icon icon-fb" data-grunticon-embed></span>
+                </a>
+            </div>
+        </div>
+    </section>
+</div>
+{% include footer.html %}
 
 
-  </body>
+</body>
 
 </html>

@@ -13,7 +13,7 @@ Absolvent Právnické fakulty Masarykovy Univerzity v Brně, kde v roce 2011 obh
 Absolvent Cyrilometodějské teologické fakulty Univerzity Palackého v Olomouci, kde v roce 2012 obhájil bakalářskou práci, jejíž tématem bylo srovnání českého trestního a kanonického trestního práva.
 Od roku 2009 do roku 2015 působil v brněnské advokátní kanceláři specializované zejména na rodinné právo (advokátní kancelář JUDr. Josefa Tobišky a prof. JUDr. Milany Hrušákové, CSc.).
 Specializuje se na rodinné, občanské, trestní a obchodní právo, přičemž v některých uvedených oblastech i [publikuje]({{site.baseurl}}/publikacni-cinnost#bruncko).
-Mimo jiné se podílel na vzniku [Unie soudních znalců, o. s.](http://uniesoudnichznalcu.cz/) a prováděl poradenství pro znalecký portál www.znalecelektro.cz. Rovněž působil ve vzdělávacím programu sdružení ((Kappa, o.s.)), kde přednášel pro uživatele zařízení sociálních služeb dědické a občanské právo.
+Mimo jiné se podílel na vzniku [Unie soudních znalců, o. s.](http://uniesoudnichznalcu.cz/) a prováděl poradenství pro znalecký portál www.znalecelektro.cz. Rovněž působil ve vzdělávacím programu sdružení [Kappa, o.s.](http://www.kappa-help.cz/), kde přednášel pro uživatele zařízení sociálních služeb dědické a občanské právo.
 
 Ovládá anglický a německý jazyk.
 
@@ -30,4 +30,5 @@ V současné době na pozici praktikantů působí několik studentů Právnick�
  
 
 ##Chcete se i Vy stát součástí našeho týmu?
-_Pokud máte zájem stát se součástí našeho týmu nebo pokud máte zájem o absolvování praxe, pak zašlete e-mailem svůj strukturovaný životopis Mgr. Bc. Stanislavu Brunckovi ([bruncko@bruncko.cz](mailto:bruncko@bruncko.cz)) - ozveme se Vám sami obratem._
+_Pokud máte zájem stát se součástí našeho týmu nebo pokud máte zájem o absolvování praxe, pak zašlete e-mailem svůj strukturovaný životopis Mgr. Bc. Stanislavu Brunckovi ([advokat@bruncko.cz](mailto:advokat@bruncko.cz)) - ozveme se Vám sami obratem._
+

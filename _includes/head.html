@@ -6,6 +6,17 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+  <!--[if lt IE 9]>
+  <script src="{{site.baseurl}}/www/js/es5-shim.min.js"></script>
+  <script src="{{site.baseurl}}/www/js/es5-sham.min.js"></script>
+  <script src="{{site.baseurl}}/www/js/respond.min.js"></script>
+  <![endif]-->
+
+  <script src="{{site.baseurl}}/www/gfx/icon/grunticon.loader.js"></script>
+  <script>
+    grunticon(['{{site.baseurl}}/www/gfx/icon/icons.data.svg.css', '{{site.baseurl}}/www/gfx/icon/icons.data.png.css', '{{site.baseurl}}/www/gfx/icon/icons.fallback.css'], grunticon.svgLoadedCallback);
+  </script>
+
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />

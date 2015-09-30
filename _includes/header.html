@@ -22,19 +22,18 @@
         <div class="contact-info">
             <div class="cell">
                 <span class="icon icon-phone" data-grunticon-embed></span>
-                <small>+420</small>
-                <span class="blue">735 881 874</span><br/>
-                <span class="icon icon-envelope" data-grunticon-embed></span><a href="mailto:bruncko@bruncko.cz">bruncko@bruncko.cz</a>
+                +420 735 881 874<br/>
+                <span class="icon icon-envelope" data-grunticon-embed></span><a href="mailto:advokat@bruncko.cz">advokat@bruncko.cz</a>
             </div>
             <div class="cell text-center">
                 <span class="icon icon-time" data-grunticon-embed></span>
-                <small>Po - Pá:</small>
-                <span class="blue">8:00&nbsp;-&nbsp;16:00</span>
+                Po - Pá:
+                <span>8:00&nbsp;-&nbsp;16:00</span>
             </div>
             <div class="cell address">
                 <small class="pull-right text-right">
                     <span class="icon icon-home" data-grunticon-embed></span>
-                    Mgr. Bc. Stanislav Bruncko, advokát<br/>
+                    Mgr. Bc. Stanislav Bruncko,<br/> advokátní kancelář<br/>
                     Benešova 628/12<br/>
                     602 00 Brno
                 </small>
@@ -50,8 +49,6 @@
                 {% assign current = 'active' %}
                 {% endif %}
 
-
-
                 <li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
                     <a href="{{ link.url | prepend: site.baseurl}}">{{ link.text }}</a>
                 </li>
@@ -60,6 +57,4 @@
             </ul>
         </nav>
     </div>
-
-
 </header>

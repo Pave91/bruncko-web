@@ -28,3 +28,5 @@ Benešova 628/12
 **Ev. č. ČAK:**			15819
 
 **ID datové schránky:**		rfpuedm
+
+**Facebook:**		[https://www.facebook.com/judrbruncko](https://www.facebook.com/judrbruncko)
