@@ -18,7 +18,7 @@ Benešova 628/12
 
 **Tel. do kanceláře:**		+420 735 881 874
 
-**E-mail:**			akbruncko@seznam.cz
+**E-mail:**			advokat@bruncko.cz
 
 **Skype:**				bruncko.bruncko
 
