@@ -4,7 +4,7 @@ title: Publikační činnost
 permalink: /publikacni-cinnost/
 ---
 
-##<a name="bruncko"></a>Mgr. Bc. Stanislav Bruncko##
+## <a name="bruncko"></a>Mgr. Bc. Stanislav Bruncko##
 
 - **Manželské majetkové právo**
 *ŠÍNOVÁ, Renáta, Ondřej ŠMÍD a Stanislav BRUNCKO*. Manželské majetkové právo. In Renata Šínová. BRUNCKO, Stanislav. Manželství. 1. vyd. Praha: Leges, 2014. s. 152-174, 23 s. Teoretik. ISBN 978-80-7502-046-8. 
@@ -44,7 +44,7 @@ permalink: /publikacni-cinnost/
 
 
 
-##<a name="kozlova"></a>Mgr. Veronika Kozlová##
+## <a name="kozlova"></a>Mgr. Veronika Kozlová##
 
 - **Dítě v rodině s výskytem domácího násilí**
 *KOZLOVÁ, Veronika a Jana LEVOVÁ.* Dítě v rodině s výskytem domácího násilí. In Práva dítěte. 2014. 
