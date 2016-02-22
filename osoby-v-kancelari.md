@@ -4,7 +4,7 @@ title: Osoby v kanceláři
 permalink: /osoby-v-kancelari/
 ---
 
-##Mgr. Bc. Stanislav Bruncko
+## Mgr. Bc. Stanislav Bruncko
 
 
 ![Mgr. Bc. Stanislav Bruncko]({{site.baseurl}}/www/img/SB.jpg)
@@ -18,7 +18,7 @@ Mimo jiné se podílel na vzniku [Unie soudních znalců, o. s.](http://uniesoud
 Ovládá anglický a německý jazyk.
 
 
-##Mgr. Veronika Kozlová 
+## Mgr. Veronika Kozlová 
 Mgr. Veronika Kozlová je absolventkou Právnické fakulty Masarykovy univerzity, kde v roce 2011 obhájila diplomovou práci na téma "Masová média jako materiální pramen práva". Od roku 2011 je doktorskou studentkou studijního programu Občanské právo na Katedře občanského práva Právnické fakulty Masarykovy Univerzity, kde píše disertační práci na téma "Domácí násilí v občanském právu".
 Od roku 2013 pracovala jako právník neziskové organizace Spondea, o.p.s, kde se zabývala pomocí obětem domácího násilí.
 Advokátní koncipientkou Mgr. Bc. Stanislava Bruncka je od roku 2015. Specializuje se na občanské, rodinné a trestní právo, zvláště pak na problematiku domácího násilí, kterou se zabývá i ve svých [odborných publikacích]({{site.baseurl}}/publikacni-cinnost#kozlova).
@@ -27,7 +27,7 @@ Od roku 2016 je na rodičovské dovolené, výkon koncipientské praxe má přer
  
 
 
-##Mgr. Bc. Kristýna Ryšavá 
+## Mgr. Bc. Kristýna Ryšavá 
 Mgr. Bc. Kristýna Ryšavá je absolventkou Právnické fakulty Univerzity Palackého v Olomouci, kde v roce 2015 obhájila svou diplomovou práci na téma „Právní režim Antarktidy a ochrana mořských živých zdrojů“. 
 Na téže fakultě v roce 2012 obhájila bakalářskou práci na téma „Úřad pro zastupování státu ve věcech majetkových“. 
 Kromě občanského práva ji zajímá právo životního prostředí a správní právo. 
@@ -35,10 +35,10 @@ Od roku 2015 je advokátní koncipientkou Mgr. Bc. Stanislava Bruncka, přičem�
 Kromě práva se zajímá o regionální politiku města Brna.
  
 
-##Praktikanti
+## Praktikanti
 V současné době na pozici praktikantů působí několik studentů Právnické fakulty Masarykovy univerzity.
  
 
-##Chcete se i Vy stát součástí našeho týmu?
+## Chcete se i Vy stát součástí našeho týmu?
 _Pokud máte zájem stát se součástí našeho týmu nebo pokud máte zájem o absolvování praxe, pak zašlete e-mailem svůj strukturovaný životopis Mgr. Bc. Stanislavu Brunckovi ([advokat@bruncko.cz](mailto:advokat@bruncko.cz)) - ozveme se Vám sami obratem._
 
