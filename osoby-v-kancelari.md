@@ -21,8 +21,18 @@ Ovládá anglický a německý jazyk.
 ##Mgr. Veronika Kozlová 
 Mgr. Veronika Kozlová je absolventkou Právnické fakulty Masarykovy univerzity, kde v roce 2011 obhájila diplomovou práci na téma "Masová média jako materiální pramen práva". Od roku 2011 je doktorskou studentkou studijního programu Občanské právo na Katedře občanského práva Právnické fakulty Masarykovy Univerzity, kde píše disertační práci na téma "Domácí násilí v občanském právu".
 Od roku 2013 pracovala jako právník neziskové organizace Spondea, o.p.s, kde se zabývala pomocí obětem domácího násilí.
-Advokátním koncipientem Mgr. Bc. Stanislava Bruncka je od roku 2015. Specializuje se na občanské, rodinné a trestní právo, zvláště pak na problematiku domácího násilí, kterou se zabývá i ve svých [odborných publikacích]({{site.baseurl}}/publikacni-cinnost#kozlova).
+Advokátní koncipientkou Mgr. Bc. Stanislava Bruncka je od roku 2015. Specializuje se na občanské, rodinné a trestní právo, zvláště pak na problematiku domácího násilí, kterou se zabývá i ve svých [odborných publikacích]({{site.baseurl}}/publikacni-cinnost#kozlova).
 Kromě práva se věnuje cvičení, zejména józe a akrobacii ve vzdušné síti. Je autorkou cvičení D-Yogi Fly a provozovatelkou studia Flash Gym – [www.jogavevzduchu.cz](http://www.jogavevzduchu.cz/).
+Od roku 2016 je na rodičovské dovolené, výkon koncipientské praxe má přerušen.
+ 
+
+
+##Mgr. Bc. Kristýna Ryšavá 
+Mgr. Bc. Kristýna Ryšavá je absolventkou Právnické fakulty Univerzity Palackého v Olomouci, kde v roce 2015 obhájila svou diplomovou práci na téma „Právní režim Antarktidy a ochrana mořských živých zdrojů“. 
+Na téže fakultě v roce 2012 obhájila bakalářskou práci na téma „Úřad pro zastupování státu ve věcech majetkových“. 
+Kromě občanského práva ji zajímá právo životního prostředí a správní právo. 
+Od roku 2015 je advokátní koncipientkou Mgr. Bc. Stanislava Bruncka, přičemž se u něj zaměřuje na právní služby pro oběti domácího násilí. 
+Kromě práva se zajímá o regionální politiku města Brna.
  
 
 ##Praktikanti
