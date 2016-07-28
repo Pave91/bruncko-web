@@ -27,12 +27,8 @@ Od roku 2016 je na rodičovské dovolené, výkon koncipientské praxe má přer
  
 
 
-## Mgr. Bc. Kristýna Ryšavá 
-Mgr. Bc. Kristýna Ryšavá je absolventkou Právnické fakulty Univerzity Palackého v Olomouci, kde v roce 2015 obhájila svou diplomovou práci na téma „Právní režim Antarktidy a ochrana mořských živých zdrojů“. 
-Na téže fakultě v roce 2012 obhájila bakalářskou práci na téma „Úřad pro zastupování státu ve věcech majetkových“. 
-Kromě občanského práva ji zajímá právo životního prostředí a správní právo. 
-Od roku 2015 je advokátní koncipientkou Mgr. Bc. Stanislava Bruncka, přičemž se u něj zaměřuje na právní služby pro oběti domácího násilí. 
-Kromě práva se zajímá o regionální politiku města Brna.
+## Mgr. Michael Straka 
+Mgr. Michael Straka je absolventem Právnické fakulty Masarykovy Univerzity, kde v roce 2016 obhájil práci na téma „Pojem znásilnění“. Od téhož roku je koncipientem advokátní kanceláře Mgr. Bc. Stanislava Bruncka, kde se zabývá především občanským, rodinným a trestním právem, přičemž se zaměřuje na pomoc obětem domácího násilí. Kromě práva se věnuje také silovým sportům, a to zejména kulturistice, ve které i aktivně závodí.
  
 
 ## Praktikanti
