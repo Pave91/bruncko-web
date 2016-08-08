@@ -7,4 +7,4 @@ Mgr. Bc. Stanislav Bruncko rovněž přednáší různá témata z oblasti práv
 
 Neváhejte využít služby naší advokátní kanceláře! Máme zkušenosti se zastupováním jednotlivců, obchodních společnosti i subjektů z oblasti neziskového sektoru, přičemž našim nejvýznamnějším klientům poskytujeme paušální služby za ((zvýhodněnou cenu)).
 
-V případě zájmu o naše služby nás ((kontaktujte)). Kancelář sídlí v Brně a poskytuje služby s celorepublikovou působností. 
+V případě zájmu o naše služby nás ((kontaktujte)).
