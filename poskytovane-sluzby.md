@@ -113,8 +113,10 @@ zastupování v řízení o ústavní stížnosti před ústavním soudem
 
 a některé další oblasti – neváhejte [zavolat]({{site.baseurl}}/kontakt) či napsat na mou [e-mailovou adresu](mailto:advokat@bruncko.cz) a otázat se
 
-
-
+ 
+ 
+ 
+ 
 
 ## PRÁVO SPOTŘEBITELE NA MIMOSOUDNÍ ŘEŠENÍ SPORŮ
 
