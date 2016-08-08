@@ -113,3 +113,19 @@ zastupování v řízení o ústavní stížnosti před ústavním soudem
 
 a některé další oblasti – neváhejte [zavolat]({{site.baseurl}}/kontakt) či napsat na mou [e-mailovou adresu](mailto:advokat@bruncko.cz) a otázat se
 
+
+
+
+## PRÁVO SPOTŘEBITELE NA MIMOSOUDNÍ ŘEŠENÍ SPORŮ
+
+Všichni mí klienti jakožto spotřebitelé mají právo na mimosoudní řešení sporů, což se týká i takového případného sporu, který by měli se mnou jakožto advokátem. K tomuto právu klientů poskytuji několik základních informací, abych je o této možnosti informoval.
+
+Pokud mezi mnou (advokátem)  a Vámi (klienty jakožto spotřebitelem) dojde ke sporu, máte jakožto klienti právo na mimosoudní řešení sporů (MSŘS). Subjektem mimosoudního řešení podle zákona č. 634/1992 Sb., o ochraně spotřebitele, je Česká advokátní komora. Veškeré podrobnosti k mimosoudnímu řešení jsou uvedeny na stránkách České advokátní komory www.cak.cz.
+
+CO JE SPOTŘEBITELSKÝ SPOR?
+Je to spor mezi spotřebitelem a podnikatelem, který mu prodal nějaký výrobek nebo poskytl službu. Bude to tedy i spor vzniklý ze smlouvy o poskytování služeb. Přitom nemusí jít jen o písemně uzavřené smlouvy, postačí smlouva uzavřená ústně nebo i jiným způsobem.
+
+CO JE MIMOSOUDNÍ ŘEŠENÍ SPOTŘEBITELSKÝCH SPORŮ?
+Je to další způsob možného řešení sporů. Jeho pravidla jsou upravena v zákoně na ochraně spotřebitele. Je to zejména varianta klasického soudního řešení sporů. Neplatí se zde žádné poplatky, je méně formální, měl by být rychlý. Pro účely mimosoudního řešení sporu se přiměřeně použije advokátní smírčí řád.
+
+Informuji své klienty také o tom, že na Vaši žádost jako spotřebitele Vám vydám doklad o poskytnutí služby s uvedením data poskytnutí služby. V případě reklamace služby Vám vydám  písemné potvrzení o tom, kdy jste jako  spotřebitelé právo uplatnili, co je obsahem reklamace a jaký způsob vyřízení reklamace vyžadujete. Při komunikaci s klienty, s nimiž mám uzavřenou smlouvu o poskytování právní pomoci používám zejména veřejnou komunikační síť, nevyužívám telefonní čísla s vyšší než běžnou cenou.
