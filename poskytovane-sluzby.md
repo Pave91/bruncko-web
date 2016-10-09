@@ -40,6 +40,7 @@ analýza a kontrola smluv
 - SVĚŘENÍ DÍTĚTE DO PÉČE
 - MANŽELSKÉ MAJETKOVÉ SMLOUVY
 - JEDNORÁZOVÉ KONZULTACE I KOMPLEXNÍ PRÁVNÍ ZASTOUPENÍ
+- DOMÁCÍ NÁSILÍ
 
 - zastupování a sepis podání v řízení o rozvod manželství
 - zastupování a sepis podání v řízení o péči o nezletilého (střídává, společná či výlučná výchova, svěření do péče, výživné, styk s nezletilým) včetně řízení se zahraničním prvkem, sepis žalob 
