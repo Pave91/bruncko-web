@@ -28,8 +28,12 @@ Od roku 2016 je na rodičovské dovolené, výkon koncipientské praxe má přer
 
 
 ## Mgr. Michael Straka 
-Mgr. Michael Straka je absolventem Právnické fakulty Masarykovy Univerzity, kde v roce 2016 obhájil práci na téma „Pojem znásilnění“. Od téhož roku je koncipientem advokátní kanceláře Mgr. Bc. Stanislava Bruncka, kde se zabývá především občanským, rodinným a trestním právem, přičemž se zaměřuje na pomoc obětem domácího násilí. Kromě práva se věnuje také silovým sportům, a to zejména kulturistice, ve které i aktivně závodí.
- 
+Mgr. Michael Straka je absolventem Právnické fakulty Masarykovy Univerzity, kde v roce 2016 obhájil práci na téma „Pojem znásilnění“. Od téhož roku je koncipientem advokátní kanceláře Mgr. Bc. Stanislava Bruncka, kde se zabývá především občanským, rodinným a trestním právem, přičemž se zaměřuje na pomoc obětem domácího násilí. Kromě práva se věnuje také silovým sportům, a to zejména kulturistice, ve které i aktivně závodí. 
+
+
+## Mgr. Lucie Šimková
+Lucie Šimková završila studia Právnické fakulty Masarykovy univerzity v roce 2006 získáním magisterského titulu v oboru právo a právní věda. V rámci své praxe v advokacii se primárně zaměřuje na rodinné právo, medicínské právo a práva pacientů. Dokáže empaticky vnímat potřeby klientů a uplatnit řadu svých praktických zkušeností, nejen díky tomu, že působí také v rodičovské roli. Služby poskytuje též v oblasti pracovního práva, práva obchodních společností, práva nemovitostí a trestního práva.
+
 
 ## Praktikanti
 V současné době na pozici praktikantů působí několik studentů Právnické fakulty Masarykovy univerzity.
