@@ -6,10 +6,10 @@ permalink: /publikacni-cinnost/
 
 ## <a name="bruncko"></a>Mgr. Bc. Stanislav Bruncko##
 
-**Spoluautorství u publikace „Občanský zákoník – velký komentář“ (MELZER, Filip, TÉGL, Petr a kol.)**
+- **Spoluautorství u publikace „Občanský zákoník – velký komentář“ (MELZER, Filip, TÉGL, Petr a kol.)**
 Autor komentáře k ustanovením § 928 až 942 – Poručenství (s. 1738 až 1813), k ustanovením § 943 až 947 – Opatrovnictví (s. 1814 až 1854), k ustanovením § 948 až 952 – Opatrovník pro správu jmění dítěte (s. 1855 až 1883), k ustanovením § 953 až 957 – Svěření do péče jiné osoby (s. 1883 až 1912), k ustanovení § 3022 (s. 1974 až 1981). In: *MELZER, Filip, TÉGL, Petr a kol.* Občanský zákoník – velký komentář. Svazek IV. § 655-975. Praha: Leges, 2016, 2064 s. ISBN 978-80-7502-004-8.
 
-**Hospodaření s výživným dítěte jakožto správa majetku nezletilého dítěte“**
+- **Hospodaření s výživným dítěte jakožto správa majetku nezletilého dítěte“**
 *BRUNCKO, Stanislav.* Hospodaření s výživným dítěte jakožto správa majetku nezletilého dítěte. Bulletin advokacie, Praha: Česká advokátní komora, 2016, č. 9, s. 36-44. ISSN 1210-6348.
 
 - **Manželské majetkové právo**
