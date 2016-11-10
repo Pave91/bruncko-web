@@ -7,7 +7,7 @@ permalink: /publikacni-cinnost/
 ## <a name="bruncko"></a>Mgr. Bc. Stanislav Bruncko##
 
 - **Monografie a komentáře**
-a) Spoluautorství u publikace „Občanský zákoník – velký komentář“ (MELZER, Filip, TÉGL, Petr a kol.)	
+*a) Spoluautorství u publikace „Občanský zákoník – velký komentář“ (MELZER, Filip, TÉGL, Petr a kol.)*
 Autor komentáře k ustanovením § 928 až 942 – Poručenství (s. 1738 až 1813), 
 Autor komentáře k ustanovením § 943 až 947 – Opatrovnictví (s. 1814 až 1854),
 Autor komentáře k ustanovením § 948 až 952 – Opatrovník pro správu jmění dítěte (s. 1855 až 1883),
