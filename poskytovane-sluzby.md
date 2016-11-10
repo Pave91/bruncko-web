@@ -52,7 +52,7 @@ analýza a kontrola smluv
 - poručenství, pěstounství, opatrovnictví
 - osvojení
 - změna jména či příjmení
-- návrhy na omezení či zbavení způsobilosti k právním úkonům
+- návrhy na omezení svéprávnosti
 - možno i jednorázové konzultace
 
 
