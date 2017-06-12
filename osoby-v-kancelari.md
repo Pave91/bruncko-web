@@ -19,14 +19,6 @@ Ovládá anglický a německý jazyk.
 
 
 
-## Mgr. Veronika Kozlová 
-Mgr. Veronika Kozlová je absolventkou Právnické fakulty Masarykovy univerzity, kde v roce 2011 obhájila diplomovou práci na téma "Masová média jako materiální pramen práva". Od roku 2011 je doktorskou studentkou studijního programu Občanské právo na Katedře občanského práva Právnické fakulty Masarykovy Univerzity, kde píše disertační práci na téma "Domácí násilí v občanském právu".
-Od roku 2013 pracovala jako právník neziskové organizace Spondea, o.p.s, kde se zabývala pomocí obětem domácího násilí.
-Advokátní koncipientkou Mgr. Bc. Stanislava Bruncka je od roku 2015. Specializuje se na občanské, rodinné a trestní právo, zvláště pak na problematiku domácího násilí, kterou se zabývá i ve svých [odborných publikacích]({{site.baseurl}}/publikacni-cinnost#kozlova).
-Kromě práva se věnuje cvičení, zejména józe a akrobacii ve vzdušné síti. Je autorkou cvičení D-Yogi Fly a provozovatelkou studia Flash Gym – [www.jogavevzduchu.cz](http://www.jogavevzduchu.cz/).
-Od roku 2016 je na rodičovské dovolené, výkon koncipientské praxe má přerušen.
- 
-
 ## Mgr. Michael Straka 
 Mgr. Michael Straka je absolventem Právnické fakulty Masarykovy Univerzity, kde v roce 2016 obhájil práci na téma „Pojem znásilnění“. Od téhož roku je koncipientem advokátní kanceláře Mgr. Bc. Stanislava Bruncka, kde se zabývá především občanským, rodinným a trestním právem, přičemž se zaměřuje na pomoc obětem domácího násilí. Kromě práva se věnuje také silovým sportům, a to zejména kulturistice, ve které i aktivně závodí. 
 
