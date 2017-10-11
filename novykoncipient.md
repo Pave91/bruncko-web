@@ -49,4 +49,4 @@ c) Co umíte:
 
 </p>
 <p>
-Motivační dopis a životopis zašlete e-mailem do 25. 10. 2017 na adresu stanislav@bruncko.cz . Vybrané uchazeče pozveme na výběrový pohovor. V případě, že nebude žádný z uchazečů splňovat požadovaná kritéria, bude vypsáno nové výběrové řízení.
+**Motivační dopis a životopis zašlete e-mailem do 25. 10. 2017 na adresu stanislav@bruncko.cz ** Vybrané uchazeče pozveme na výběrový pohovor. V případě, že nebude žádný z uchazečů splňovat požadovaná kritéria, bude vypsáno nové výběrové řízení.
