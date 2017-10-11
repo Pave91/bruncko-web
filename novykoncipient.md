@@ -10,6 +10,8 @@ permalink: /novykoncipient/
 Vážení a milí,
 
 vzhledem k neustále narůstajícímu zájmu klientů o naše služby (který nás velmi těší a velmi si jej vážíme) opět rozšiřujeme náš tým a vypisujeme výběrové řízení na nového spolupracovníka - již třetího advokátního koncipienta, s nástupem v průběhu listopadu 2017 (dle dohody i jindy).
+</p>
+<p>
 
 
 **I. Co od Vás očekáváme?**
@@ -35,6 +37,8 @@ c) Co umíte:
 - máte vynikající znalost českého jazyka slovem i písmem (cizí jazyky naopak příliš nepoužíváme).
 
 
+</p>
+<p>
 **II. Co Vám nabízíme?**
 
 - smysluplnou a zajímavou práci (budete často chodit k soudu a budete často jednat s klienty; budete spolupracovat s psychology, sociálními pracovníky nebo soudními znalci, protože poskytujeme právní služby významným neziskovým organizacím),
@@ -43,5 +47,6 @@ c) Co umíte:
 - příjemný a mladý pracovní kolektiv.
 - místem výkonu práce bude sídlo advokátní kanceláře (centrum Brna) a sídlo známé brněnské neziskové organizace, která se zabývá pomocí obětem domácího násilí (Brno-Černá Pole).
 
-
+</p>
+<p>
 Motivační dopis a životopis zašlete e-mailem do 25. 10. 2017 na adresu stanislav@bruncko.cz . Vybrané uchazeče pozveme na výběrový pohovor. V případě, že nebude žádný z uchazečů splňovat požadovaná kritéria, bude vypsáno nové výběrové řízení.
