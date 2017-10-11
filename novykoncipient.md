@@ -1,3 +1,9 @@
+---
+layout: page
+title: Hledáme nového koncipienta
+permalink: /novykoncipient/
+---
+
 **HLEDÁME ADVOKÁTNÍHO KONCIPIENTA S NÁSTUPEM OD 11/2017**
 
 
