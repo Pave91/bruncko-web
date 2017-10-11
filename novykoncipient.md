@@ -1,9 +1,12 @@
-**HLEDÁME PRO ADVOKÁTNÍ KANCELÁŘ V BRNĚ ADVOKÁTNÍHO KONCIPIENTA S NÁSTUPEM OD 11/2017**
+**HLEDÁME ADVOKÁTNÍHO KONCIPIENTA S NÁSTUPEM OD 11/2017**
+
 
 Vážení a milí,
+
 vzhledem k neustále narůstajícímu zájmu klientů o naše služby (který nás velmi těší a velmi si jej vážíme) opět rozšiřujeme náš tým a vypisujeme výběrové řízení na nového spolupracovníka - již třetího advokátního koncipienta, s nástupem v průběhu listopadu 2017 (dle dohody i jindy).
 
-I. Co od Vás očekáváme?
+
+**I. Co od Vás očekáváme?**
 
 a) Co pro Vás znamená právo:
 
@@ -26,7 +29,7 @@ c) Co umíte:
 - máte vynikající znalost českého jazyka slovem i písmem (cizí jazyky naopak příliš nepoužíváme).
 
 
-II. Co Vám nabízíme?
+**II. Co Vám nabízíme?**
 
 - smysluplnou a zajímavou práci (budete často chodit k soudu a budete často jednat s klienty; budete spolupracovat s psychology, sociálními pracovníky nebo soudními znalci, protože poskytujeme právní služby významným neziskovým organizacím),
 - pravidelnou a důkladnou zpětnou vazbu k vyhotovené práci,
