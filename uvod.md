@@ -8,3 +8,6 @@ JUDr. Bc. Stanislav Bruncko rovněž přednáší různá témata z oblasti prá
 Neváhejte využít služby naší advokátní kanceláře! Máme zkušenosti se zastupováním jednotlivců, obchodních společnosti i subjektů z oblasti neziskového sektoru, přičemž našim nejvýznamnějším klientům poskytujeme paušální služby za ((zvýhodněnou cenu)).
 
 V případě zájmu o naše služby nás ((kontaktujte)).
+
+
+**! ! !  AKTUÁLNĚ ! ! !**  Hledáme do týmu advokátního koncipienta s nástupem od listopadu 2017!  [publikuje]({{site.baseurl}}/novykoncipient#bruncko).
