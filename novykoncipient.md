@@ -40,7 +40,7 @@ c) Co umíte:
 - smysluplnou a zajímavou práci (budete často chodit k soudu a budete často jednat s klienty; budete spolupracovat s psychology, sociálními pracovníky nebo soudními znalci, protože poskytujeme právní služby významným neziskovým organizacím),
 - pravidelnou a důkladnou zpětnou vazbu k vyhotovené práci,
 - odpovídající finanční ohodnocení s odměnami dle odvedené práce (s tím, že přesčasy započítáváme a sloužení přesčasů nevnímáme jako samozřejmost),
-- příjemný a mladý pracovní kolektiv.
+- příjemný a mladý pracovní kolektiv,
 - místem výkonu práce bude sídlo advokátní kanceláře (centrum Brna) a sídlo známé brněnské neziskové organizace, která se zabývá pomocí obětem domácího násilí (Brno-Černá Pole).
 
 
