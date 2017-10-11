@@ -10,4 +10,4 @@ Neváhejte využít služby naší advokátní kanceláře! Máme zkušenosti se
 V případě zájmu o naše služby nás ((kontaktujte)).
 
 
-**! ! !  AKTUÁLNĚ ! ! !**  Hledáme do týmu advokátního koncipienta s nástupem od listopadu 2017!  [publikuje]({{site.baseurl}}/novykoncipient#bruncko).
+**! ! !  AKTUÁLNĚ ! ! !**  Hledáme do týmu advokátního koncipienta s nástupem od listopadu 2017!  [publikuje]({{site.baseurl}}/publikacni-cinnost#bruncko).
