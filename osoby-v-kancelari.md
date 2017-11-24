@@ -20,7 +20,7 @@ Ovládá anglický a německý jazyk.
 
 
 ## Mgr. Michael Straka 
-Mgr. Michael Straka je absolventem Právnické fakulty Masarykovy Univerzity, kde v roce 2016 obhájil práci na téma „Pojem znásilnění“. Od téhož roku je koncipientem advokátní kanceláře Mgr. Bc. Stanislava Bruncka, kde se zabývá především občanským, rodinným a trestním právem, přičemž se zaměřuje na pomoc obětem domácího násilí. Kromě práva se věnuje také silovým sportům, a to zejména kulturistice, ve které i aktivně závodí. 
+Mgr. Michael Straka je absolventem Právnické fakulty Masarykovy Univerzity, kde v roce 2016 obhájil práci na téma „Pojem znásilnění“. Od téhož roku je koncipientem advokátní kanceláře JUDr. Bc. Stanislava Bruncka, kde se zabývá především občanským, rodinným a trestním právem, přičemž se zaměřuje na pomoc obětem domácího násilí. Kromě práva se věnuje také silovým sportům, a to zejména kulturistice, ve které i aktivně závodí. 
 
 
 
@@ -29,5 +29,5 @@ V současné době na pozici praktikantů působí několik studentů Právnick�
  
 
 ## Chcete se i Vy stát součástí našeho týmu?
-_Pokud máte zájem stát se součástí našeho týmu nebo pokud máte zájem o absolvování praxe, pak zašlete e-mailem svůj strukturovaný životopis Mgr. Bc. Stanislavu Brunckovi ([advokat@bruncko.cz](mailto:advokat@bruncko.cz)) - ozveme se Vám sami obratem._
+_Pokud máte zájem stát se součástí našeho týmu nebo pokud máte zájem o absolvování praxe, pak zašlete e-mailem svůj strukturovaný životopis JUDr. Bc. Stanislavu Brunckovi ([stanislav@bruncko.cz](mailto:stanislav@bruncko.cz)) - ozveme se Vám sami obratem._
 
