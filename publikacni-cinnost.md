@@ -4,7 +4,7 @@ title: Publikační činnost
 permalink: /publikacni-cinnost/
 ---
 
-## <a name="bruncko"></a>JUDr. Bc. Stanislav Bruncko##
+## <a name="bruncko"></a>JUDr. Bc. Stanislav Bruncko, Ph.D.##
 
 - **Spoluautorství u publikace „Občanský zákoník – velký komentář“ (MELZER, Filip, TÉGL, Petr a kol.)**
 Autor komentáře k ustanovením § 928 až 942 – Poručenství (s. 1738 až 1813), k ustanovením § 943 až 947 – Opatrovnictví (s. 1814 až 1854), k ustanovením § 948 až 952 – Opatrovník pro správu jmění dítěte (s. 1855 až 1883), k ustanovením § 953 až 957 – Svěření do péče jiné osoby (s. 1883 až 1912), k ustanovení § 3022 (s. 1974 až 1981). In: *MELZER, Filip, TÉGL, Petr a kol.* Občanský zákoník – velký komentář. Svazek IV. § 655-975. Praha: Leges, 2016, 2064 s. ISBN 978-80-7502-004-8.
@@ -46,4 +46,53 @@ Autor komentáře k ustanovením § 928 až 942 – Poručenství (s. 1738 až 1
 
 - **Právo na výživné v České republice a jeho souvislost s lidskými právy**
 *BRUNCKO, Stanislav.* PRÁVO NA VÝŽIVNÉ V ČESKÉ REPUBLICE A JEHO SOUVISLOST S LIDSKÝMI PRÁVY. In Masarykova univerzita. Dny práva 2011 – Days of Law 2011. 1. vyd. Brno: Masarykova univerzita, 2012. s. 1-7, 7 s. ISBN 978-80-210-5913-9. 
+
+
+
+## <a name="kozlova"></a>Mgr. Veronika Kozlová##
+
+- **Dítě v rodině s výskytem domácího násilí**
+*KOZLOVÁ, Veronika a Jana LEVOVÁ.* Dítě v rodině s výskytem domácího násilí. In Práva dítěte. 2014. 
+
+- **Ochrana dítěte v rodině s výskytem domácího násilí**
+*KOZLOVÁ, Veronika.* OCHRANA DÍTĚTE V RODINĚ S VÝSKYTEM DOMÁCÍHO NÁSILÍ. In Právní rozpravy. 2014. 
+
+- **Ochrana dítěte v rodině s výskytem domácího násilí**
+*KOZLOVÁ, Veronika.* OCHRANA DÍTĚTE V RODINĚ S VÝSKYTEM DOMÁCÍHO NÁSILÍ. In Recenzovaný sborník příspěvků z mezinárodní vědecké konference Právní rozpravy. Hradec Králové: Magnanimitas, 2014. s. 202-. ISBN 978-80-87952-02-3. 
+
+- **Ochrana proti domácímu násilí pomocí vykázání**
+*KOZLOVÁ, Veronika.* Ochrana proti domácímu násilí pomocí vykázání. In Setkání Libereckého kraje. 2014. 
+
+- **Vyživovací povinnost ve vazbě na předběžné opatření podle § 76b OSŘ**
+*KOZLOVÁ, Veronika.* Vyživovací povinnost ve vazbě na předběžné opatření podle § 76b OSŘ. In Králíčková, Kornel, Valdhans. Sborník příspěvků z konference Dny práva 2013. Brno: Masarykova univerzita, 2014. s. 67-74, 161 s. ISBN 978-80-210-6812-4. 
+
+- **Domácí násilí - zákon a skutečnost**
+*KOZLOVÁ, Veronika a ADRIENA BUDÍNOVÁ.* Domácí násilí - zákon a skutečnost. 2013. 
+
+- **Domácí násilí v rodině s dítětem jako právní problém**
+*KOZLOVÁ, Veronika a Martina CIRBUSOVÁ.* Domácí násilí v rodině s dítětem jako právní problém. In Sborník příspěvků z konference Dítě jako oběť rodičovského konfliktu. Jihlava: Krajský úřad Kraje Vysočina, 2013. 
+
+- **Child as a Witness of Domestic Violence**
+*KOZLOVÁ, Veronika.* Child as a Witness of Domestic Violence. 2013. vyd. Sydney, Australia: World Congress on Family Law and Children's Rights Inc., 2013. 6 s. 
+
+- **Domácí násilí**
+*KOZLOVÁ, Veronika.* Domácí násilí. In Přednáška pro univerzitu třetího věku v sídle veřejného ochránce práv. 2012. 
+
+- **Domácí násilí v novém občanském zákoníku**
+*KOZLOVÁ, Veronika.* Domácí násilí v novém občanském zákoníku. In Cofola conference. 2012. 
+
+- **Domácí násilí v rodině s dítětem jako právní problém**
+*KOZLOVÁ, Veronika, Martina CIRBUSOVÁ a Zdeňka KRÁLÍČKOVÁ.* Domácí násilí v rodině s dítětem jako právní problém. In Konference Dítě jako oběť rodičovského konfliktu. 2012. 
+
+- **Kdo může být obětí domácího násilí (v rámci Cofola conference)**
+*KOZLOVÁ, Veronika a Martina CIRBUSOVÁ.* Kdo může být obětí domácího násilí (v rámci Cofola conference). 2012. 
+
+- **Nový občanský zákoník (v rámci Cofola conference)**
+*KOZLOVÁ, Veronika a Martin KORNEL.* Nový občanský zákoník (v rámci Cofola conference). 2012. 
+
+- **Rodinné právo – Czech Family Law**
+*KRÁLÍČKOVÁ, Zdeňka, Radovan DÁVID, Martin KORNEL, Anna HOŘÍNOVÁ, Michaela JANOČKOVÁ, Jana VOLKOVÁ a Veronika KOZLOVÁ.* Rodinné právo – Czech Family Law. 4. aktual. vyd. Brno: Masarykova univerzita, 2012. Elportál. ISSN 1802-128X. 
+
+- **"Zažíváte násilí ve vztahu? Nasloucháme Vám..."**
+*KOZLOVÁ, Veronika, Zdeňka KRÁLÍČKOVÁ a Martina CIRBUSOVÁ.* "Zažíváte násilí ve vztahu? Nasloucháme Vám...". In "Zažíváte násilí ve vztahu? Nasloucháme Vám...". 2012. 
 
