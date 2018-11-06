@@ -4,7 +4,7 @@ title: Osoby v kanceláři
 permalink: /osoby-v-kancelari/
 ---
 
-## JUDr. Bc. Stanislav Bruncko, Ph.D.
+## Stanislav Bruncko
 
 
 ![Mgr. Bc. Stanislav Bruncko]({{site.baseurl}}/www/img/SB.jpg)
