@@ -7,7 +7,7 @@ permalink: /cenik/
 
 ## Odměna advokáta
 
-Odměna za právní službu se řídí zásadně dle dohody mezi advokátem a klientem (smluvní odměna), a to v závislosti na náročnosti poskytované služby, zejména dle složitosti případu a dle časové náročnosti..
+Odměna za právní službu se řídí zásadně dle dohody mezi advokátem a klientem (smluvní odměna), a to v závislosti na náročnosti poskytované služby, zejména dle složitosti případu a dle časové náročnosti.
 Není-li mezi klientem a advokátem odměna dohodnuta, řídí se výše mimosmluvní odměny vyhláškou Ministerstva spravedlnosti č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb  [advokátní tarif](https://portal.gov.cz/app/zakony/zakonPar.jsp?idBiblio=44272&nr=177~2F1996&rpp=15#local-content) ve znění pozdějších předpisů.
 
 Přesnou výši odměny nelze obvykle stanovit bez bližší znalosti konkrétního případu. Proto bude odměna s klientem dohodnuta po poskytnutí bližších informací při projednání záležitosti v advokátní kanceláři. 
@@ -18,7 +18,7 @@ Dohodou mezi klientem a advokátem může být odměna stanovena jako [odměna �
 ## <a name="odmena-casova"></a>Smluvní odměna časová
 Smluvní odměna časová je odměnou, kdy klient platí advokátovi sjednanou odměnu podle počtu hodin právní služby. Při časově nenáročných poradách lze sazbu hodinové odměny poměrně snížit.
 
-Základní hodinová sazba při časové odměně je za každou započatou hodinu poskytnuté právní služby 1.000,- Kč, v případě právně složitých a náročných případech se může hodinová sazba časové odměny pohybovat od 1.000,- Kč do 3.000,- Kč.
+Základní hodinová sazba při časové odměně je za každou započatou hodinu poskytnuté právní služby 1.500,- Kč, v případě právně složitých a náročných případech se může hodinová sazba časové odměny pohybovat od 1.500,- Kč do 3.000,- Kč.
 
 
 ## <a name="odmena-ukonova"></a>Smluvní odměna úkonová
