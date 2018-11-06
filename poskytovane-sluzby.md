@@ -4,7 +4,7 @@ title: Poskytované služby
 permalink: /poskytovane-sluzby/
 ---
 
-Klienty zastupuji zejména v oblastech práva občanského, rodinného, trestního a obchodního:
+Klienty zastupujeme zejména v oblastech práva občanského, rodinného, trestního a obchodního:
 
 ## Občanské právo
 
@@ -112,7 +112,7 @@ analýza a kontrola smluv
 zastupování v řízení o ústavní stížnosti před ústavním soudem
 
 
-a některé další oblasti – neváhejte [zavolat]({{site.baseurl}}/kontakt) či napsat na mou [e-mailovou adresu](mailto:advokat@bruncko.cz) a otázat se
+a některé další oblasti – neváhejte [zavolat]({{site.baseurl}}/kontakt) či napsat na naši [e-mailovou adresu](mailto:advokat@bruncko.cz) a otázat se
 
  
  
