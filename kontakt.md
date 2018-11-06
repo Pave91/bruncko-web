@@ -6,7 +6,7 @@ permalink: /kontakt/
 
 **Sídlo advokátní kanceláře:**
 
-JUDr. Bc. Stanislav Bruncko, advokátní kancelář
+JUDr. Bc. Stanislav Bruncko, Ph.D., advokátní kancelář
 
 Benešova 628/12
 
