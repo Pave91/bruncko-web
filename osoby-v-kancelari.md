@@ -51,7 +51,7 @@ V advokátní kanceláři JUDr. Bc. Stanislava Bruncka, Ph.D. začala působit j
 a v témže roce nastoupila na Právnickou fakultu Masarykovy univerzity v Brně (obor Právo a právní věda). V advokátní kanceláři má na starosti zejména organizační a technické zázemí a fakturaci klientům.
 Kromě studia práv aktivně praktikuje Ashtanga jógu. Pochází z brněnské hudební rodiny, proto se také 
 věnuje zpěvu a hře na housle. Je primáškou cimbálové muziky a působí ve studentském orchestru
-["Mladí brněnští symfonikové"](https://www.facebook.com/orchestr.mbs). Ovládá anglický jazyk.
+[Mladí brněnští symfonikové](https://www.facebook.com/orchestr.mbs). Ovládá anglický jazyk.
 
 
 ## Právní asistenti
