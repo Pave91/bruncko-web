@@ -2,7 +2,7 @@
 title: Bruncko, advokátní kancelář
 email: advokat@bruncko.cz
 description: > # this means to ignore newlines until "baseurl:"
-  Advokátní kancelář JUDr. Bc. Stanislava Bruncka v Brně - jsme experti na rodinné právo, trestní právo, občanské právo, obchodní právo. Rozvod, výlučná i střídavá péče, výživné, předmanželská smlouva - se vším poradíme!
+  Advokátní kancelář JUDr. Bc. Stanislava Bruncka, Ph.D., v Brně - jsme experti na rodinné právo, trestní právo, občanské právo, obchodní právo. Rozvod, výlučná i střídavá péče, výživné, předmanželská smlouva - se vším poradíme!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bruncko.cz" # the base hostname & protocol for your site
 
