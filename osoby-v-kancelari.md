@@ -43,7 +43,7 @@ Od roku 2016 je na rodičovské dovolené, výkon koncipientské praxe má přer
 
 ## Jiří Kočiščák
 Je studentem Právnické fakulty Masarykovy univerzity, kde momentálně dokončuje diplomovou práci na téma "Vývoj judikatury v doménových sporech". V advokátní kanceláři JUDr. Bc. Stanislava Bruncka, Ph.D. působí od roku 2016. V rámci kanceláře má na starosti zejména obchodní, občanské a správní právo. 
-Je aktivní hráč šachu (v roce 2008 mu byl udělen titul ["Mistr FIDE"](https://ratings.fide.com/topfed.phtml?ina=1&country=CZE), ze skupinových sportů se rekreačně věnuje hokejbalu. Jako dobrovolník příležitostně spolupracuje s organizací HESTIA – Centrum pro dobrovolnictví, z. ú. Ovládá anglický jazyk.
+Je aktivní hráč šachu (v roce 2008 mu byl udělen titul ["Mistr FIDE"](https://ratings.fide.com/topfed.phtml?ina=1&country=CZE)), ze skupinových sportů se rekreačně věnuje hokejbalu. Jako dobrovolník příležitostně spolupracuje s organizací HESTIA – Centrum pro dobrovolnictví, z. ú. Ovládá anglický jazyk.
 
 
 ## Anna Krejčí
