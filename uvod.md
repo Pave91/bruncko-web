@@ -1,4 +1,4 @@
-Vítejte na stránkách advokátní kanceláře JUDr. Bc. Stanislava Bruncka, Ph.D.!
+Vítejte na stránkách advokátní kanceláře Stanislava Bruncka!
 
 Kancelář sídlí v Brně a poskytuje služby s celorepublikovou působností. 
 
