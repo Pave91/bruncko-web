@@ -57,11 +57,8 @@ Kromě studia práv aktivně praktikuje Ashtanga jógu. Pochází z brněnské h
 věnuje zpěvu a hře na housle. Je primáškou cimbálové muziky a působí ve studentském orchestru
 [Mladí brněnští symfonikové](https://www.facebook.com/orchestr.mbs). Ovládá anglický jazyk.
 
-
-## Právní asistenti
-V současné době na pozici právních asistentů působí i další studenti Právnické fakulty Masarykovy univerzity.
  
 
 ## Chcete se i Vy stát součástí našeho týmu?
-_Pokud máte zájem stát se součástí našeho týmu nebo pokud máte zájem o absolvování praxe, pak zašlete e-mailem svůj životopis a motivační dopis JUDr. Bc. Stanislavu Brunckovi, Ph.D. ([stanislav@bruncko.cz](mailto:stanislav@bruncko.cz)) - ozveme se Vám sami obratem._
+_V současné době na pozici právních asistentů působí i další studenti Právnické fakulty Masarykovy univerzity. Pokud máte zájem stát se součástí našeho týmu nebo pokud máte zájem o absolvování praxe, pak zašlete e-mailem svůj životopis a motivační dopis JUDr. Bc. Stanislavu Brunckovi, Ph.D. ([stanislav@bruncko.cz](mailto:stanislav@bruncko.cz)) - ozveme se Vám sami obratem._
 
