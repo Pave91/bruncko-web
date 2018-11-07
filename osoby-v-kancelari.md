@@ -47,7 +47,7 @@ Je aktivní hráč šachu (v roce 2008 mu byl udělen titul ["Mistr FIDE"](https
 
 
 ## Julie Přikrylová
-Je studentkou Právnické fakulty Masarykovy univerzity v Brně (obor Právo a právní věda), kde v současné době zpracovává diplomovou práci na téma "Zásada presumpce neviny v kontextu současné doby". V advokátní kanceláři JUDr. Bc. Stanislava Bruncka, Ph.D., působí jako právní asistentka od roku 2018. Zabývá se zejména rodinným a trestním právem. Aktivně se věnuje skautingu (zakladatelka a vedoucí oddílu v Lelekovicích), hře na violu a klavír (pravidelně působí v Symfonickém orchestru Sokola Brno I a cimbálové muzice), fotografování a sebeobraně. Ovládá anglický jazyk.
+V advokátní kanceláři JUDr. Bc. Stanislava Bruncka, Ph.D., působí jako právní asistentka od roku 2018. Zabývá se zejména rodinným a trestním právem. Je studentkou Právnické fakulty Masarykovy univerzity v Brně (obor Právo a právní věda), kde v současné době zpracovává diplomovou práci na téma "Zásada presumpce neviny v kontextu současné doby". Aktivně se věnuje skautingu (zakladatelka a vedoucí oddílu v Lelekovicích), hře na violu a klavír (pravidelně působí v Symfonickém orchestru Sokola Brno I a cimbálové muzice), fotografování a sebeobraně. Ovládá anglický jazyk.
 
 
 ## Anna Krejčí
