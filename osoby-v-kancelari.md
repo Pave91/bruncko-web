@@ -42,8 +42,12 @@ Od roku 2016 je na rodičovské dovolené, výkon koncipientské praxe má přer
 
 
 ## Jiří Kočiščák
-Je studentem Právnické fakulty Masarykovy univerzity, kde momentálně dokončuje diplomovou práci na téma "Vývoj judikatury v doménových sporech". V advokátní kanceláři JUDr. Bc. Stanislava Bruncka, Ph.D. působí od roku 2016. V rámci kanceláře má na starosti zejména obchodní, občanské a správní právo. 
+Je studentem Právnické fakulty Masarykovy univerzity, kde momentálně dokončuje diplomovou práci na téma "Vývoj judikatury v doménových sporech". V advokátní kanceláři JUDr. Bc. Stanislava Bruncka, Ph.D., působí od roku 2016. V rámci kanceláře má na starosti zejména obchodní, občanské a správní právo. 
 Je aktivní hráč šachu (v roce 2008 mu byl udělen titul ["Mistr FIDE"](https://ratings.fide.com/topfed.phtml?ina=1&country=CZE)), ze skupinových sportů se rekreačně věnuje hokejbalu. Jako dobrovolník příležitostně spolupracuje s organizací HESTIA – Centrum pro dobrovolnictví, z. ú. Ovládá anglický jazyk.
+
+
+## Julie Přikrylová
+Je studentkou Právnické fakulty Masarykovy univerzity v Brně (obor Právo a právní věda), kde v současné době zpracovává diplomovou práci na téma "Zásada presumpce neviny v kontextu současné doby". V advokátní kanceláři JUDr. Bc. Stanislava Bruncka, Ph.D., působí jako právní asistentka od roku 2018. Zabývá se zejména rodinným a trestním právem. Aktivně se věnuje skautingu (zakladatelka a vedoucí oddílu v Lelekovicích), hře na violu a klavír (pravidelně působí v Symfonickém orchestru Sokola Brno I a cimbálové muzice), fotografování a sebeobraně. Ovládá anglický jazyk.
 
 
 ## Anna Krejčí
