@@ -13,7 +13,7 @@ Je absolventem Právnické fakulty Masarykovy Univerzity v Brně, kde v roce 201
 Absolvent Cyrilometodějské teologické fakulty Univerzity Palackého v Olomouci, kde v roce 2012 obhájil bakalářskou práci, jejíž tématem bylo srovnání českého trestního a kanonického trestního práva.
 Od roku 2009 do roku 2015 působil v brněnské advokátní kanceláři specializované zejména na rodinné právo.
 Specializuje se na rodinné, občanské, trestní a obchodní právo, přičemž v některých uvedených oblastech i [publikuje]({{site.baseurl}}/publikacni-cinnost#bruncko).
-Mimo jiné se podílel na vzniku [Unie soudních znalců, o. s.](http://uniesoudnichznalcu.cz/) a prováděl poradenství pro znalecký portál www.znalecelektro.cz. Rovněž působil ve vzdělávacím programu sdružení [Kappa, o.s.](http://www.kappa-help.cz/), kde přednášel pro uživatele zařízení sociálních služeb dědické a občanské právo. Od roku 2015 poskytuje právní poradenství významné brněnské neziskové organizaci [Spondea, o.p.s.](https://www.spondea.cz/), která se zabývá řešením krizových situací v rodině a pomocí osobám postiženým domácím násilím.
+Mimo jiné se podílel na vzniku [Unie soudních znalců, o. s.](http://uniesoudnichznalcu.cz/) a prováděl poradenství pro znalecký portál www.znalecelektro.cz. Rovněž působil ve vzdělávacím programu sdružení [Kappa, o.s.](http://www.kappa-help.cz/), kde přednášel pro uživatele zařízení sociálních služeb dědické a občanské právo. Od roku 2015 poskytuje právní poradenství významné brněnské neziskové organizaci [Spondea, o.p.s.](https://www.spondea.cz/), která se zabývá řešením krizových situací v rodině a pomocí osobám postiženým domácím násilím. Je členem [Asociace manželských a rodinných poradců, z.s.](http://www.amrp.cz/) a [Spolku křesťanských právníků, z.s.](https://krestanstipravnici.cz/).
 
 Ovládá anglický a německý jazyk.
 
@@ -42,7 +42,7 @@ Od roku 2016 je na rodičovské dovolené, výkon koncipientské praxe má přer
 
 
 ## Jiří Kočiščák
-Je absolventem Právnické fakulty Masarykovy univerzity v Brně, kterou zakončil diplomovou prací na téma "Vývoj judikatury v doménových sporech" (titul Mgr.). V advokátní kanceláři JUDr. Bc. Stanislava Bruncka, Ph.D., působí od roku 2016. V rámci kanceláře má na starosti zejména obchodní, občanské a správní právo. 
+Je absolventem Právnické fakulty Masarykovy univerzity v Brně, kterou zakončil diplomovou prací na téma "Vývoj judikatury v doménových sporech" (titul Mgr.). V advokátní kanceláři JUDr. Bc. Stanislava Bruncka, Ph.D., působí od roku 2016. V rámci kanceláře má na starosti zejména obchodní, občanské a správní právo, včetně práva azylového. 
 Je aktivní hráč šachu (v roce 2008 mu byl udělen titul ["Mistr FIDE"](https://ratings.fide.com/topfed.phtml?ina=1&country=CZE)), ze skupinových sportů se rekreačně věnuje hokejbalu. Jako dobrovolník příležitostně spolupracuje s organizací HESTIA – Centrum pro dobrovolnictví, z. ú. Ovládá anglický jazyk.
 
 
