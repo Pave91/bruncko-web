@@ -4,7 +4,7 @@ title: Publikační činnost
 permalink: /publikacni-cinnost/
 ---
 
-## <a name="bruncko"></a>JUDr. Bc. Stanislav Bruncko, Ph.D.##
+## <a name="bruncko"></a>JUDr. Bc. Stanislav Bruncko, Ph.D.
 
 - **Spoluautorství u publikace „Občanský zákoník – velký komentář“ (MELZER, Filip, TÉGL, Petr a kol.)**
 Autor komentáře k ustanovením § 928 až 942 – Poručenství (s. 1738 až 1813), k ustanovením § 943 až 947 – Opatrovnictví (s. 1814 až 1854), k ustanovením § 948 až 952 – Opatrovník pro správu jmění dítěte (s. 1855 až 1883), k ustanovením § 953 až 957 – Svěření do péče jiné osoby (s. 1883 až 1912), k ustanovení § 3022 (s. 1974 až 1981). In: *MELZER, Filip, TÉGL, Petr a kol.* Občanský zákoník – velký komentář. Svazek IV. § 655-975. Praha: Leges, 2016, 2064 s. ISBN 978-80-7502-004-8.
@@ -49,7 +49,7 @@ Autor komentáře k ustanovením § 928 až 942 – Poručenství (s. 1738 až 1
 
 
 
-## <a name="kozlova"></a>Mgr. Veronika Kozlová##
+## <a name="kozlova"></a>Mgr. Veronika Kozlová
 
 - **Dítě v rodině s výskytem domácího násilí**
 *KOZLOVÁ, Veronika a Jana LEVOVÁ.* Dítě v rodině s výskytem domácího násilí. In Práva dítěte. 2014. 
