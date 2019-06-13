@@ -48,7 +48,7 @@ Je aktivní hráč šachu (v roce 2008 mu byl udělen titul ["Mistr FIDE"](https
 
 ## Lucie Zatloukalová
 Je absolventkou právnické fakulty Masarykovy univerzity, kde v roce 2019 obhájila diplomovou práci na téma „Právo na rozvod a tzv. tvrdostní klauzule“ (titul Mgr.). Od roku 2019 studuje doktorský studijní program Občanské právo na Katedře občanského práva Právnické fakulty Masarykovy univerzity, kde píše disertační práci na téma „Nesezdané soužití de lege ferenda“. 
-V advokátní kanceláři JUDr. Bc. Stanislava Bruncka, Ph.D., působí od roku 2018, a zároveň od roku 2019 spolupracuje jako právník neziskové organizace Spondea, o. p. s., kde se zaměřuje na pomoc obětem domácího násilí. Před prací v advokátní kanceláři absolvovala stáž na Ústavním soudu ČR, u Veřejného ochránce práv a na Probační a mediační službě Prostějov. Zaměřuje se zejména na občanské, rodinné a trestní právo. Ve volném čase ráda čte, příležitostně hraje volejbal a cvičí jógu. Ovládá anglický jazyk.
+V advokátní kanceláři JUDr. Bc. Stanislava Bruncka, Ph.D., působí od roku 2018, a zároveň od roku 2019 spolupracuje jako právnička neziskové organizace Spondea, o. p. s., kde se zaměřuje na pomoc obětem domácího násilí. Před prací v advokátní kanceláři absolvovala stáž na Ústavním soudu ČR, u Veřejného ochránce práv a na Probační a mediační službě Prostějov. Zaměřuje se zejména na občanské, rodinné a trestní právo. Několik let je vegankou, ve volném čase ráda čte, příležitostně hraje volejbal a cvičí jógu. Ovládá anglický jazyk.
 
 
 ## Anna Krejčí
