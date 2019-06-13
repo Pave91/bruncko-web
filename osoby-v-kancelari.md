@@ -13,7 +13,7 @@ Je absolventem Právnické fakulty Masarykovy Univerzity v Brně, kde v roce 201
 Absolvent Cyrilometodějské teologické fakulty Univerzity Palackého v Olomouci, kde v roce 2012 obhájil bakalářskou práci, jejíž tématem bylo srovnání českého trestního a kanonického trestního práva.
 Od roku 2009 do roku 2015 působil v brněnské advokátní kanceláři specializované zejména na rodinné právo.
 Specializuje se na rodinné, občanské, trestní a obchodní právo, přičemž v některých uvedených oblastech i [publikuje]({{site.baseurl}}/publikacni-cinnost#bruncko).
-Mimo jiné se podílel na vzniku [Unie soudních znalců, o. s.](http://uniesoudnichznalcu.cz/) a prováděl poradenství pro znalecký portál www.znalecelektro.cz. Rovněž působil ve vzdělávacím programu sdružení [Kappa, o.s.](http://www.kappa-help.cz/), kde přednášel pro uživatele zařízení sociálních služeb dědické a občanské právo. Od roku 2015 poskytuje právní poradenství významné brněnské neziskové organizaci [Spondea, o.p.s.](https://www.spondea.cz/), která se zabývá řešením krizových situací v rodině a pomocí osobám postiženým domácím násilím. Je členem [Asociace manželských a rodinných poradců, z.s.,](http://www.amrp.cz/) a [Spolku křesťanských právníků, z.s.](https://krestanstipravnici.cz/)
+Mimo jiné se podílel na vzniku [Unie soudních znalců, o. s.](http://uniesoudnichznalcu.cz/) a prováděl poradenství pro znalecký portál www.znalecelektro.cz. Od roku 2015 poskytuje právní poradenství významné brněnské neziskové organizaci [Spondea, o.p.s.](https://www.spondea.cz/), která se zabývá řešením krizových situací v rodině a pomocí osobám postiženým domácím násilím. Je členem [Asociace manželských a rodinných poradců, z.s.,](http://www.amrp.cz/) a [Spolku křesťanských právníků, z.s.](https://krestanstipravnici.cz/)
 
 Ovládá anglický a německý jazyk.
 
@@ -26,8 +26,8 @@ Mezi jeho záliby patří především sport, a to zejména kulturistika, ve kte
 Ovládá anglický jazyk.
 
 
-## Jan Groborz 
-Je absolventem Právnické fakulty Masarykovy univerzity v Brně, kterou zakončil diplomovou prací na téma „Komparace české úpravy směnečných náležitostí a předpokladů platnosti směnky s úpravami ve vybraných zemích“ (titul Mgr.). Je činný v advokacii od roku 2012, zapsán v seznamu koncipientů je od roku 2015. V roce 2018 mu byl udělen titul JUDr. za obhajobu rigorózní práce na téma „Uplatnění směnečného nároku v soudním řízení“. V advokátní kanceláři JUDr. Bc. Stanislava Bruncka, Ph.D., působí jako koncipient od roku 2017, kde se zabývá především pomocí obětem domácího násilí, rodinným, občanským a trestním právem.
+## [Jan Groborz](https://www.groborz.cz/) 
+Je absolventem Právnické fakulty Masarykovy univerzity v Brně, kterou zakončil diplomovou prací na téma „Komparace české úpravy směnečných náležitostí a předpokladů platnosti směnky s úpravami ve vybraných zemích“ (titul Mgr.). Je činný v advokacii od roku 2012, advokátem je od roku 2019. V roce 2018 mu byl udělen titul JUDr. za obhajobu rigorózní práce na téma „Uplatnění směnečného nároku v soudním řízení“. V advokátní kanceláři JUDr. Bc. Stanislava Bruncka, Ph.D., působil jako koncipient od roku 2017, kde se zabýval především pomocí obětem domácího násilí, rodinným, občanským a trestním právem, a nyní je zde trvale spolupracujícím advokátem a poskytuje také právní služby vlastním klientům.
 Kromě práva se aktivně věnuje sportu, fitness, deskovým hrám a hře na saxofon.
 
 Ovládá anglický jazyk.
@@ -46,8 +46,9 @@ Je absolventem Právnické fakulty Masarykovy univerzity v Brně, kterou zakonč
 Je aktivní hráč šachu (v roce 2008 mu byl udělen titul ["Mistr FIDE"](https://ratings.fide.com/topfed.phtml?ina=1&country=CZE)), ze skupinových sportů se rekreačně věnuje hokejbalu. Jako dobrovolník příležitostně spolupracuje s organizací HESTIA – Centrum pro dobrovolnictví, z. ú. Ovládá anglický jazyk.
 
 
-## Julie Přikrylová
-V advokátní kanceláři JUDr. Bc. Stanislava Bruncka, Ph.D., působí jako právní asistentka od roku 2018. Zabývá se zejména rodinným a trestním právem. Je studentkou Právnické fakulty Masarykovy univerzity v Brně (obor Právo a právní věda), kde v současné době zpracovává diplomovou práci na téma "Zásada presumpce neviny v kontextu současné doby". Aktivně se věnuje skautingu (zakladatelka a vedoucí oddílu v Lelekovicích), hře na violu a klavír (pravidelně působí v Symfonickém orchestru Sokola Brno I a cimbálové muzice), fotografování a sebeobraně. Ovládá anglický jazyk.
+## Lucie Zatloukalová
+Je absolventkou právnické fakulty Masarykovy univerzity, kde v roce 2019 obhájila diplomovou práci na téma „Právo na rozvod a tzv. tvrdostní klauzule“ (titul Mgr.). Od roku 2019 studuje doktorský studijní program Občanské právo na Katedře občanského práva Právnické fakulty Masarykovy univerzity, kde píše disertační práci na téma „Nesezdané soužití de lege ferenda“. 
+V advokátní kanceláři JUDr. Bc. Stanislava Bruncka, Ph.D., působí od roku 2018, a zároveň od roku 2019 spolupracuje jako právník neziskové organizace Spondea, o. p. s., kde se zaměřuje na pomoc obětem domácího násilí. Před prací v advokátní kanceláři absolvovala stáž na Ústavním soudu ČR, u Veřejného ochránce práv a na Probační a mediační službě Prostějov. Zaměřuje se zejména na občanské, rodinné a trestní právo. Ve volném čase ráda čte, příležitostně hraje volejbal a cvičí jógu. Ovládá anglický jazyk.
 
 
 ## Anna Krejčí
