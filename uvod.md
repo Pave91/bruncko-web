@@ -11,3 +11,8 @@ V případě zájmu o naše služby nás ((kontaktujte)).
 
 
 
+ <strong><br>OZNÁMENÍ O ZMĚNĚ SÍDLA KANCELÁŘE:
+Od 1. 1. 2020 sídlíme na nové adrese, a to Vídeňská 849/15, 639 00 Brno.<br/></strong>
+
+
+
