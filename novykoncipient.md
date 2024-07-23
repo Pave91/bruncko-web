@@ -1,47 +1,37 @@
 ---
 layout: page
-title: Hledáme nového koncipienta
+title: Nabývání českého a slovenského státního občanství původem
 permalink: /novykoncipient/
 ---
 
-**HLEDÁME ADVOKÁTNÍHO KONCIPIENTA S NÁSTUPEM OD 11/2017**
+**Nabývání českého a slovenského státního občanství původem**
 
 
-Vážení a milí,
+Naše kancelář poskytuje právní pomoc s nabýváním a osvědčováním českého a slovenského státního občanství, jakož i s obstaráním českých nebo slovenských matričních dokladů.
 
-vzhledem k neustále narůstajícímu zájmu klientů o naše služby (který nás velmi těší a velmi si jej vážíme) opět rozšiřujeme náš tým a vypisujeme výběrové řízení na nového spolupracovníka - již třetího advokátního koncipienta, s nástupem v průběhu listopadu 2017 (dle dohody i jindy).
+**Poskytované služby v ČR:**
 
+- Vyřízení osvědčení o státním občanství
+- Vyřízení listiny o nabytí státního občanství prohlášením podle § 31
+- Vyřízení listiny o nabytí státního občanství prohlášením podle § 32
+- Zápis o narození, sňatku nebo úmrtí do Zvláštní matriky v Brně
 
-**I. Co od Vás očekáváme?**
+**Poskytované služby v SR:**
 
-a) Co pro Vás znamená právo:
-
-- právo Vás baví, je pro Vás hrou a Vy si hrajete rád,
-- nespravedlnost Vás nenechává klidnými,
-- své právní znalosti lidem nabízíte jako službu a pomoc.
-
-
-b) Jaký jste:
-
-- práce s lidmi Vás baví,
-- při vyslovení pojmu morálka nemáte nutkání se pousmát,
-- jste zvědavý a rád se učíte nové věci,
-- jste pečlivý a spolehlivý i tam, kde se ostatním zdá, že to není nutné.
-
-
-c) Co umíte:
-
-- máte výbornou znalost rodinného a občanského práva a dobrou znalost ostatních odvětví (nadstandardní znalost trestního práva a práva proti domácímu násilí bude Vaší výhodou),
-- máte vynikající znalost českého jazyka slovem i písmem (cizí jazyky naopak příliš nepoužíváme).
+- Vyřízení osvědčení o státním občanství
+- Právní pomoc s žádostí o osvědčení Slováka žijícího v zahraničí
+- Právní pomoc s žádostí o udělení přechodného/trvalého pobytu v SR
+- Držitel osvědčení Slováka žijícího v zahraničí
+- Sloučení rodiny
+- Trvalý pobyt na 5 let z důvodů hodných zvláštního zřetele
+- Právní pomoc s žádostí o udělení státního občanství podle § 7 odst. 2 písm. j)
+- Zápis o narození, sňatku nebo úmrtí do Zvláštní matriky Ministerstva vnitra SR
 
 
-**II. Co Vám nabízíme?**
-
-- smysluplnou a zajímavou práci (budete často chodit k soudu a budete často jednat s klienty; budete spolupracovat s psychology, sociálními pracovníky nebo soudními znalci, protože poskytujeme právní služby významným neziskovým organizacím),
-- pravidelnou a důkladnou zpětnou vazbu k vyhotovené práci,
-- odpovídající finanční ohodnocení s odměnami dle odvedené práce (s tím, že přesčasy započítáváme a sloužení přesčasů nevnímáme jako samozřejmost),
-- příjemný a mladý pracovní kolektiv,
-- místem výkonu práce bude sídlo advokátní kanceláře (centrum Brna) a sídlo známé brněnské neziskové organizace, která se zabývá pomocí obětem domácího násilí (Brno-Černá Pole).
+Uvedené služby poskytujeme v třech variantách (Silver, Gold, Platinum), přičemž každá z variant zajišťuje jinou úroveň služby.
+- Varianta Silver zahrnuje 1 hodinu konzultací, přípravu podkladů a podání, jakož i koordinaci s úředním překladatelem. 
+- Varianta Gold zahrnuje 3 hodiny konzultací, samotné podání žádosti (kde se nevyžaduje osobní podání žadatelem), přípravu podkladů a podání, koordinaci s úředním překladatelem, doručování písemností z úřadů, omezené archivní rešerše, jakož i právní pomoc po podání žádosti.
+- Varianta Platinum zahrnuje neomezenou možnost konzultací, samotné podání žádosti (kde se nevyžaduje osobní podání žadatelem), přípravu podkladů včetně podkladů z USA, zabezpečení úředních překladů podkladů až do 30 normostran, doručování písemností z úřadů, archivní rešerše bez ohledu na rozsah, jakož i právní pomoc po podání žádosti.
 
 
-**Motivační dopis a životopis zašlete e-mailem do 25. 10. 2017 na adresu stanislav@bruncko.cz** Vybrané uchazeče pozveme na výběrový pohovor. V případě, že nebude žádný z uchazečů splňovat požadovaná kritéria, bude vypsáno nové výběrové řízení.
+Více se dozvíte na naší webové stránce [www.cs-passport.eu.](www.cs-passport.eu)
